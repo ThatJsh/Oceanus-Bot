@@ -1,0 +1,29 @@
+{
+  "name": "oceanus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js",
+    "start": "node ./src/index.js",
+    "build": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-animation": "^2.0.3",
+    "discord.js": "^12.5.3",
+    "discord.js-pagination": "^1.0.3",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "nekos.life": "^3.0.0",
+    "pagination": "^0.4.6",
+    "random-puppy": "^1.1.0",
+    "superagent": "^6.1.0",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}

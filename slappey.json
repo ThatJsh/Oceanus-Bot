@@ -1,0 +1,7 @@
+{
+  "name": "Oceanus",
+  "language": "javascript",
+  "manager": "npm",
+  "token": "TOKEN HERE",
+  "prefix": "o!"
+}
