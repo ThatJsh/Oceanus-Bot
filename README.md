@@ -9,3 +9,5 @@ Enter your token in both configs slappey.json and config.json
 do npm i then all the ones in the package.json
 
 Also do npm i discord.js@12.5.3 since it's the best thing since men having nipples.
+
+To run it do npm run test
